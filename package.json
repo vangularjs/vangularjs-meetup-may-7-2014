@@ -1,0 +1,10 @@
+{
+  "name": "vangularjs-meetup-may-7-2014",
+  "version": "0.0.0",
+  "description": "ui-router and Angular on tumblr",
+  "authors": [
+    "AngularJS Vancouver <http://www.meetup.com/vanangularJS>"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
